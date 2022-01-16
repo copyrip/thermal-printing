@@ -1,0 +1,27 @@
+printer.println("          ------------          ");
+printer.println("     ");
+printer.println("               g     o");
+printer.println("          n               o       ");
+printer.println("       o                    o    ");
+printer.println("     b                        o  ");
+printer.println("   D                           o");
+printer.println("  O                           o  ");
+printer.println(" ()                          o");
+printer.println("|\          _____       ____o");
+printer.println("0'         /     \     /   o \ ");
+printer.println("'\        |   -   |   |   O   |");
+printer.println("  :        \_____/     \_____/");
+printer.println("  /\                          ");
+printer.println(" / /             O     O               ");
+printer.println(" - -                            ");
+printer.println("            EXPERT SOMATIC_CS");
+printer.println("                (ST-ÉBRUX)");
+printer.println("                       ");
+printer.println("          ------------          ");
+printer.println("                         ");
+printer.println("     DESIGN:LOULOULAROUILLE
+printer.println("      PRINT:COPYRIGHT.RIP  ");
+printer.println("                                 ");
+printer.setCodePage(CODEPAGE_KATAKANA);
+printer.println("               \xE9  ");
+

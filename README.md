@@ -1,7 +1,6 @@
 * [ ] print "Monoprix Ohm"
 * [ ] 
 ## Printer specs
-
 ### Characters
 #### Character per line
 
@@ -21,4 +20,8 @@
 * BO - ░
 * B1 - ▒
 * B2 - ▓
+* DA - █
 
+### Line-height
+* there is a minimum line-height
+* 
