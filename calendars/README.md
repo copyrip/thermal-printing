@@ -2,7 +2,8 @@
 
 > Handwritten ASCII calendars, thermal printed with care
 
-13 unique 30x30mm pages manually crafted. From january to december, with 
+13 unique 30x30mm pages manually crafted. Limited edition of 365.
+From january to december, including a weekly overview and a full days list per month !
 
 You can use them as bookmarks, throw them in your handbag or use them carefully in your bullet journal.
 
@@ -14,6 +15,18 @@ This pricing method is an experimentation.
 * ⚠️ gregorian calendar is a pure construct, and you can organize your life how the hell you want.
 
 The physical NFT tokenizing utility on the blockcahin, with a practical use in the ~~meta~~*uni*verse ! A unique decentralized project aimed to unite time organizers and calendar users all around the world(s).
+
+## to do
+* [ ] test lines, dos, bitmap...
+* [ ] choose calendar style
+* [ ] other montehes
+* [ ] finish readme.md
+* [ ] prepare ig post
+* [ ] landing page
+* [ ] set bitcoin address for paiement
+* [ ] paypal account
+* [ ] N26 moneybeam
+* [ ] lydia
 
 ```
 JANUARY 2022
