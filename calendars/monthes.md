@@ -249,3 +249,34 @@ A 16 chars one ? is it faisible ?
 24252627282930
 31
 ```
+
+
+Sizes of the "drawing"
+```
+january         
+Mo Tu We Th Fr Sa Su XXXXXXXXXXXXXXX
+                1  2 XXXXXXXXXXXXXXX 
+ 3  4  5  6  7  8  9 XXXXXXXXXXXXXXX
+10 11 12 13 14 15 16 XXXXXXXXXXXXXXX
+17 18 19 20 21 22 23 XXXXXXXXXXXXXXX
+24 25 26 27 28 29 30 XXXXXXXXXXXXXXX
+31                   XXXXXXXXXXXXXXX
+
+january         
+Mo Tu We Th Fr Sa Su ...............
+                1  2 .XXXXXXXXXXXXX. 
+ 3  4  5  6  7  8  9 .XXXXXXXXXXXXX.
+10 11 12 13 14 15 16 .XXXXXXXXXXXXX.
+17 18 19 20 21 22 23 .XXXXXXXXXXXXX.
+24 25 26 27 28 29 30 .XXXXXXXXXXXXX.
+31                   ...............
+
+january         
+Mo Tu We Th Fr Sa Su................
+                1  2.XXXXXXXXXXXXXX. 
+ 3  4  5  6  7  8  9.XXXXXXXXXXXXXX.
+10 11 12 13 14 15 16.XXXXXXXXXXXXXX.
+17 18 19 20 21 22 23.XXXXXXXXXXXXXX.
+24 25 26 27 28 29 30.XXXXXXXXXXXXXX.
+31                  ................
+
