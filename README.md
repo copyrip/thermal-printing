@@ -1,5 +1,6 @@
-* [ ] print "Monoprix Ohm"
-* [ ] 
+* [x] print "Monoprix Ohm"
+* [ ] print calendars
+
 ## Printer specs
 ### Characters
 #### Character per line
@@ -23,5 +24,4 @@
 * DA - █
 
 ### Line-height
-* there is a minimum line-height
-* 
+* there is a minimum line-height (just set it to 1)
