@@ -12,6 +12,7 @@
 | Small  | 32     | 42     |
 
 #### Default charset
+* 21 - !
 * 2D - - 
 * 2F - /
 * 3C - <
