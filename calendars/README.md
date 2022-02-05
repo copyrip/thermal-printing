@@ -1,3 +1,47 @@
+## 2022 CALENDAR
+
+> a minimalist crypto-enabled ascii art unique calendar, thermal-printed using upcycled material.
+
+
+- detertiarisation *via an instagram story* "So, for a few month a looooot of u are asking me to collab on an nft drop or when i'll be entering the crypo art space..."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 2022 ASCII CALENDARS
 
 > Handwritten ASCII calendars, thermal printed with care
@@ -12,13 +56,7 @@ This pricing method is an experimentation.
 
 * ⚠️ contrast can wear off
 * ⚠️ the product is an upcycled banking paper rool, expect an inscription on the back of the sheet
-* ⚠️ gregorian calendar is a pure construct, and you can organize your life how the hell you want.
 
-The physical NFT tokenizing utility on the blockcahin, with a practical use in the ~~meta~~*uni*verse ! A unique decentralized project aimed to unite time organizers and calendar users all around the world(s).
-
-## to do
-* [ ] test lines, dos, bitmap...
-* [ ] choose calendar style
 * [ ] other montehes
 * [ ] finish readme.md
 * [ ] prepare ig post

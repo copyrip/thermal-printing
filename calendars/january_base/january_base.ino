@@ -23,6 +23,7 @@ void setup() {
   printer.printBitmap(esoWeek_width, esoWeek_height, esoWeek_data);
   
   printer.setLineHeight(1);
+ 
   
 printer.println("\xDA\xC4\xC4\xC4\xC4\xC4\xC2\xC4\xC4\xC4\xC4\xC4\xC2\xC4\xC4\xC4\xC4\xC4\xC2\xC4\xC4\xC4\xC4\xC4\xC2\xC4\xC4\xC4\xC4\xC4\xC2\xC4\xC4\xC4\xC4\xC4\xC2\xC4\xC4\xC4\xC4\xBF");
 printer.println("\xB3     \xB3     \xB3     \xB3     \xB3     \xB3  1  \xB3  2 \xB3");
@@ -78,7 +79,6 @@ printer.println("..........................................");
 printer.println("..........................................");
 printer.println("..........................................");
 printer.println("..........................................");
-
 
 
   printer.sleep();      // Tell printer to sleep
